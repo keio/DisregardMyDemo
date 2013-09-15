@@ -27,5 +27,5 @@ function test() {
 }
 ```
 
-<img http://romanceaddict91.files.wordpress.com/2010/10/warning-electricity-2.gif>
+<img src="http://romanceaddict91.files.wordpress.com/2010/10/warning-electricity-2.gif">
 ![Electricity FTW](http://romanceaddict91.files.wordpress.com/2010/10/warning-electricity-2.gif)
